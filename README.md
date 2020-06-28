@@ -23,7 +23,7 @@ This project is part of Udacity Data Science Nanodegree for students to start bu
 	(4) Communicate your business insights by creating a github repo to share code and data with a technical audience, and by creating a blog post to share insights with a non-technical audience.
 
 
-Here, I picked a [competition dataset from Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) about house price in Ames, Iowa between 2006-2010. Please see the jupyter notebook in this repo for my analyses and data visualizations. Here is also my [blog on Wordpress]().
+Here, I picked a [competition dataset from Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) about house price in Ames, Iowa between 2006-2010. Please see the jupyter notebook in this repo for my analyses and data visualizations. Here is also my [blog on Wordpress](https://ratnadeepsen.wordpress.com/2020/06/28/house-price-analysis-of-ames-iowa-2006-2010/).
 
 ### 2. Installation
 
