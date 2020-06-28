@@ -1,5 +1,4 @@
-# Write-A-Data-Science-Blog-Post
-This project is the first project of Udacity Data Science Nano Degree for students to write A Data Science Blog Post.
+
 # Write A Blog Post on Wordpress
 
  - Skills: Data Visualization (matplotlib, seaborn); EDA; Communicating with Shareholders
